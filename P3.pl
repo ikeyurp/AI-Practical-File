@@ -1,3 +1,4 @@
+% Write a program to solve Monkey Banana problem in Prolog
 move(state(middle,onbox,middle,hasnot),
     grasp,
     state(middle,onbox,middle,has)).
